@@ -6,7 +6,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/kavinjain.in-10b981?style=flat-square&logo=safari&logoColor=white&labelColor=0d1117)](https://kavinjain.in)&ensp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/kavin-jain-b79a312b3/)&ensp;[![Email](https://img.shields.io/badge/Email-ea4335?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:hello@kavinjain.in)&ensp;[![Views](https://komarev.com/ghpvc/?username=kavinjainn&style=flat-square&color=10b981&label=views)](https://github.com/kavinjainn)
+[![Portfolio](https://img.shields.io/badge/kavinjain.in-10b981?style=flat-square&logo=safari&logoColor=white&labelColor=0d1117)](https://kavinjain.in)&ensp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/kavin-jain-b79a312b3/)&ensp;[![Email](https://img.shields.io/badge/Email-ea4335?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:hello@kavinjain.in)&ensp;[![Views](https://komarev.com/ghpvc/?username=kavin-jain&style=flat-square&color=10b981&label=views)](https://github.com/kavin-jain)
 
 </div>
 
@@ -56,13 +56,14 @@ I work from schematic to firmware to deployed product.
 
 | Project | What | Stack |
 |---------|------|-------|
-| [**⬡ Swarm Intelligence**](https://github.com/kavinjainn/swarm-intelligence) | Decentralised ESP32 mesh — no central controller, emergent exploration via local rules and distributed auctions | `ESP32` `C++` `ESP-NOW` |
-| [**🦿 Hybrid Quadruped**](https://github.com/kavinjainn/hybrid-quadruped) | 3D-printed 12-servo quadruped — FABRIK inverse kinematics, stable gait across uneven terrain | `ESP32` `C++` `3D Print` |
-| [**📈 MARK5**](https://github.com/kavinjainn/mark5) | ML equity forecasting system for NSE — ensemble model, live news sentiment, walk-forward backtesting | `Python` `scikit-learn` `pandas` |
-| [**🏢 PICKORA**](https://github.com/kavinjainn/pickora) | Full-stack café & court booking platform — real-time slot locking, admin dashboard, live in production | `React` `Firebase` `Tailwind` |
-| [**⚽ Robo Soccer**](https://github.com/kavinjainn/robo-soccer) | Autonomous soccer bot — mecanum wheels, NRF24L01 team radio, distributed attacker/defender roles | `Arduino` `C++` `RF` |
-| [**🪪 RYC NFC Attendance**](https://github.com/kavinjainn/ryc-nfc) | ESP32 + PN532 NFC check-in system synced live to Firebase — 200+ delegates, 3-day event | `ESP32` `JS` `Firebase` |
-| [**🔭 ESP32 Security Tools**](https://github.com/kavinjainn/esp32-security-tools) | Custom Marauder build + NRF24L01 packet sniffer + BLE scanner for RF/WiFi security research | `ESP32` `C++` `RF` |
+| [**⬡ Swarm Intelligence**](https://github.com/kavin-jain/swarm-intelligence) | Decentralised ESP32 mesh — no central controller, emergent exploration via local rules and distributed auctions | `ESP32` `C++` `ESP-NOW` |
+| [**🦿 Hybrid Quadruped**](https://github.com/kavin-jain/hybrid-quadruped) | 3D-printed 12-servo quadruped — FABRIK inverse kinematics, stable gait across uneven terrain | `ESP32` `C++` `3D Print` |
+| [**📈 MARK5**](https://github.com/kavin-jain/MARK5) | Survivorship-free NSE equity research — point-in-time universe, FIFO tax lots, DSR/PBO-validated backtesting | `Python` `pandas` |
+| [**🏢 PICKORA**](https://github.com/kavin-jain/pickora) | Full-stack café & court booking platform — real-time slot locking, admin dashboard, live in production | `React` `Firebase` `Tailwind` |
+| [**📟 ESP32-S3 Handheld**](https://github.com/kavin-jain/s3-handheld) | Flipper-class multi-radio security handheld — LVGL UI, sub-GHz / NFC / IR / WiFi / BLE | `ESP32-S3` `C++` `LVGL` |
+| [**⚽ Robo Soccer**](https://github.com/kavin-jain/robo-soccer) | Hand-built RC soccer robot — welded sheet-metal chassis, twin-joystick tank steering over NRF24L01 | `Arduino` `C++` `RF` |
+| [**🪪 RYC NFC Attendance**](https://github.com/kavin-jain/ryc-nfc) | ESP32 + NFC check-in system synced live to Firebase — real-time registration & analytics | `ESP32` `JS` `Firebase` |
+| [**🔭 ESP32 Security Tools**](https://github.com/kavin-jain/esp32-security-tools) | Custom Marauder build + NRF24L01 packet sniffer + BLE scanner for RF/WiFi security research | `ESP32` `C++` `RF` |
 
 <br/>
 
@@ -72,7 +73,7 @@ I work from schematic to firmware to deployed product.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=kavinjainn&background=0d1117&ring=10b981&fire=10b981&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=10b981&sideLabels=8b949e&dates=8b949e&border=30363d&stroke=30363d" height="155" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=kavin-jain&background=0d1117&ring=10b981&fire=10b981&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=10b981&sideLabels=8b949e&dates=8b949e&border=30363d&stroke=30363d" height="155" alt="GitHub Streak" />
 
 </div>
 
@@ -80,7 +81,7 @@ I work from schematic to firmware to deployed product.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kavinjainn&bg_color=0d1117&color=10b981&line=10b981&point=e6edf3&area=true&area_color=064e3b&hide_border=true&radius=4" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kavin-jain&bg_color=0d1117&color=10b981&line=10b981&point=e6edf3&area=true&area_color=064e3b&hide_border=true&radius=4" alt="Contribution Graph" />
 
 </div>
 
