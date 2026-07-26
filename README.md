@@ -92,7 +92,6 @@ Schematic → firmware → deployed product, no step skipped.
 ### 🌱 &nbsp;Also
 
 - **Head of Operations** across 4 Model UN conferences — delegate awards in 4 committees
-- Running **[Eliomatter](https://eliomatters.com)** — a small web studio for local businesses
 - Daily feeding route for street animals in Udaipur
 
 <br/>
