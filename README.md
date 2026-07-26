@@ -19,10 +19,10 @@
   └─────────────────────────────────────────────────────────────────────┘
 ```
 
-Most of my work lives at the intersection of **software logic** and **physical movement** —
-swarm coordination running on hand-soldered ESP32 nodes, inverse kinematics driving a
-3D-printed quadruped across uneven terrain, ML pipelines processing live sensor feeds.
-I work from schematic to firmware to deployed product.
+Most of my work sits where **software logic** meets **physical movement** — swarm
+coordination on hand-soldered ESP32 nodes, FABRIK inverse kinematics driving a
+3D-printed quadruped, real-time computer vision reading a camera feed at 30 FPS.
+Schematic → firmware → deployed product, no step skipped.
 
 <br/>
 
