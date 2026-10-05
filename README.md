@@ -29,7 +29,6 @@ It has no jammers, by design. The firmware compiles and its logic is tested. Rad
 | [**Robo Soccer**](https://github.com/kavin-jain/robo-soccer) | Hand-built sheet-metal RC soccer bot. Twin-joystick tank steering over an NRF24L01 link | Code + build notes |
 | [**Swarm Intelligence**](https://github.com/kavin-jain/swarm-intelligence) | Decentralised ESP32 swarm over ESP-NOW, with no central controller | Write-up + photo |
 | [**Card Detection**](https://github.com/kavin-jain/yolo-card-detection) | Real-time playing-card detection with YOLOv8 (54 classes) | Write-up + screenshot |
-| [**ESP32 Security Tools**](https://github.com/kavin-jain/esp32-security-tools) | Marauder build, NRF24L01 sniffer and BLE scanner for authorised RF/WiFi testing | Write-up |
 
 Not public yet: a 12-servo 3D-printed quadruped (FABRIK inverse kinematics on ESP32) and an ESP32 + NFC attendance system built for a Model UN conference.
 
