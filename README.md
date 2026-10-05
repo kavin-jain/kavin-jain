@@ -1,111 +1,45 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=064e3b,10b981&height=140&section=header&text=Kavin+Jain&fontSize=50&fontColor=ffffff&fontAlignY=42&desc=Robotics+%26+Embedded+Engineer&descSize=16&descAlignY=64&animation=fadeIn" />
+## Kavin Jain
 
-<div align="center">
+**I build ESP32 hardware from the circuit up.** That means radios, robots and security tools, plus the software around them. I design the board, solder it, write the firmware and ship it. Udaipur, India.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1200&color=10B981&center=true&vCenter=true&width=500&lines=I+build+machines+that+think+and+move.;Swarm+%7C+Inverse+Kinematics+%7C+ML+%7C+ESP32;From+the+circuit+board+up." alt="Typing SVG" />
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/kavinjain.in-10b981?style=flat-square&logo=safari&logoColor=white&labelColor=0d1117)](https://kavinjain.in)&ensp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/kavin-jain-b79a312b3/)&ensp;[![Email](https://img.shields.io/badge/Email-ea4335?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:hello@kavinjain.in)&ensp;[![Views](https://komarev.com/ghpvc/?username=kavin-jain&style=flat-square&color=10b981&label=views)](https://github.com/kavin-jain)
-
-</div>
-
-<br/>
-
-```
-  ┌─────────────────────────────────────────────────────────────────────┐
-  │  Robotics & Embedded Engineer  ·  Udaipur, Rajasthan, India         │
-  │  Design PCBs  ──▶  Solder them  ──▶  Write firmware  ──▶  Ship      │
-  └─────────────────────────────────────────────────────────────────────┘
-```
-
-Most of my work sits where **software logic** meets **physical movement** — swarm
-coordination on hand-soldered ESP32 nodes, FABRIK inverse kinematics driving a
-3D-printed quadruped, real-time computer vision reading a camera feed at 30 FPS.
-Schematic → firmware → deployed product, no step skipped.
-
-<br/>
+[kavinjain.in](https://kavinjain.in) · [LinkedIn](https://www.linkedin.com/in/kavin-jain-b79a312b3/) · [hello@kavinjain.in](mailto:hello@kavinjain.in)
 
 ---
 
-### 🛠 &nbsp;Stack
+### Now building: [S3 Handheld](https://github.com/kavin-jain/s3-handheld)
 
-<div align="center">
+<a href="https://github.com/kavin-jain/s3-handheld"><img src="https://raw.githubusercontent.com/kavin-jain/s3-handheld/main/docs/photos/hero.jpg" width="560" alt="S3 Handheld bench prototype: two CC1101 sub-GHz radios, two NRF24L01+ with antennas, 2.4-inch display and rotary encoder" /></a>
 
-**Languages & Frameworks**
+Flipper-class security handheld on an ESP32-S3:
 
-[![Languages](https://skillicons.dev/icons?i=py,ts,js,cpp,react,nodejs,tailwindcss&theme=dark&perline=7)](https://kavinjain.in)
+- **Radios:** 2× CC1101 sub-GHz, 2× NRF24L01+, PN532 NFC, IR, and the S3's own WiFi and BLE
+- **Firmware:** an LVGL UI with 61 tools in 13 categories, plus 56 host unit tests
+- **Docs:** a full BOM and wiring tables, so you can rebuild it
 
-**Embedded, Tools & Infrastructure**
-
-[![Tools](https://skillicons.dev/icons?i=arduino,raspberrypi,linux,git,docker,firebase,figma&theme=dark&perline=7)](https://kavinjain.in)
-
-**Machine Learning**
-
-[![ML](https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark&perline=7)](https://kavinjain.in)
-
-<sub>`ESP32` &nbsp;·&nbsp; `3D Printing` &nbsp;·&nbsp; `Soldering` &nbsp;·&nbsp; `PCB Design` &nbsp;·&nbsp; `RF / NRF24L01` &nbsp;·&nbsp; `FABRIK IK` &nbsp;·&nbsp; `YOLOv8` &nbsp;·&nbsp; `OpenCV` &nbsp;·&nbsp; `scikit-learn`</sub>
-
-</div>
-
-<br/>
+It has no jammers, by design. The firmware compiles and its logic is tested. Radio bring-up on the real device is in progress.
 
 ---
 
-### 📂 &nbsp;Projects
+### Projects
 
-| Project | What | Stack |
-|---------|------|-------|
-| [**⬡ Swarm Intelligence**](https://github.com/kavin-jain/swarm-intelligence) | Decentralised ESP32 mesh — no central controller, emergent exploration via local rules and distributed auctions | `ESP32` `C++` `ESP-NOW` |
-| [**🦿 Hybrid Quadruped**](https://github.com/kavin-jain/hybrid-quadruped) | 3D-printed 12-servo quadruped — FABRIK inverse kinematics, stable gait across uneven terrain | `ESP32` `C++` `3D Print` |
-| [**📈 MARK5**](https://github.com/kavin-jain/MARK5) | Survivorship-free NSE equity research — point-in-time universe, FIFO tax lots, DSR/PBO-validated backtesting | `Python` `pandas` |
-| [**🏢 PICKORA**](https://github.com/kavin-jain/pickora) | Full-stack café & court booking platform — real-time slot locking, admin dashboard, live in production | `React` `Firebase` `Tailwind` |
-| [**📟 ESP32-S3 Handheld**](https://github.com/kavin-jain/s3-handheld) | Flipper-class multi-radio security handheld — LVGL UI, sub-GHz / NFC / IR / WiFi / BLE | `ESP32-S3` `C++` `LVGL` |
-| [**⚽ Robo Soccer**](https://github.com/kavin-jain/robo-soccer) | Hand-built RC soccer robot — welded sheet-metal chassis, twin-joystick tank steering over NRF24L01 | `Arduino` `C++` `RF` |
-| [**🪪 RYC NFC Attendance**](https://github.com/kavin-jain/ryc-nfc) | ESP32 + NFC check-in system synced live to Firebase — real-time registration & analytics | `ESP32` `JS` `Firebase` |
-| [**🔭 ESP32 Security Tools**](https://github.com/kavin-jain/esp32-security-tools) | Custom Marauder build + NRF24L01 packet sniffer + BLE scanner for RF/WiFi security research | `ESP32` `C++` `RF` |
+| Project | What | Status |
+|---|---|---|
+| [**MARK5**](https://github.com/kavin-jain/MARK5) | Quant research for NSE India: survivorship-free, tax-aware. The README opens with the negative result, because the stock-picking alpha is not yet statistically significant | Paper trading · [live dashboard](https://kavinjain.in/mark6) |
+| [**PICKORA**](https://github.com/kavin-jain/pickora) | Café and pickleball court booking (Next.js, Firebase), with real-time slot locking and an admin dashboard | Live at [pickora.in](https://pickora.in) |
+| [**Robo Soccer**](https://github.com/kavin-jain/robo-soccer) | Hand-built sheet-metal RC soccer bot. Twin-joystick tank steering over an NRF24L01 link | Code + build notes |
+| [**Swarm Intelligence**](https://github.com/kavin-jain/swarm-intelligence) | Decentralised ESP32 swarm over ESP-NOW, with no central controller | Write-up + photo |
+| [**Card Detection**](https://github.com/kavin-jain/yolo-card-detection) | Real-time playing-card detection with YOLOv8 (54 classes) | Write-up + screenshot |
+| [**ESP32 Security Tools**](https://github.com/kavin-jain/esp32-security-tools) | Marauder build, NRF24L01 sniffer and BLE scanner for authorised RF/WiFi testing | Write-up |
 
-<br/>
+Not public yet: a 12-servo 3D-printed quadruped (FABRIK inverse kinematics on ESP32) and an ESP32 + NFC attendance system built for a Model UN conference.
 
----
-
-### 📊 &nbsp;GitHub Stats
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=kavin-jain&background=0d1117&ring=10b981&fire=10b981&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=10b981&sideLabels=8b949e&dates=8b949e&border=30363d&stroke=30363d" height="155" alt="GitHub Streak" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kavin-jain&bg_color=0d1117&color=10b981&line=10b981&point=e6edf3&area=true&area_color=064e3b&hide_border=true&radius=4" alt="Contribution Graph" />
-
-</div>
-
-<br/>
+**Toolbox:** ESP32 / ESP32-S3 · C++ · PlatformIO · LVGL · CC1101 / NRF24L01 / PN532 · PCB design & soldering · 3D printing · Python · pandas · TypeScript · Next.js · Firebase · YOLOv8 / OpenCV
 
 ---
 
-### 🌱 &nbsp;Also
+### Also
 
-- **Head of Operations** across 4 Model UN conferences — delegate awards in 4 committees
-- Daily feeding route for street animals in Udaipur
+- **Head of Operations** across 4 Model UN conferences, with delegate awards in 4 committees
+- I run a daily feeding route for street animals in Udaipur
 
-<br/>
-
----
-
-<div align="center">
 <sub><i>"Built from the circuit up."</i></sub>
-<br/><br/>
-<a href="https://kavinjain.in">
-  <img src="https://img.shields.io/badge/kavinjain.in-%E2%86%92-10b981?style=for-the-badge&labelColor=0d1117&color=10b981" alt="kavinjain.in" />
-</a>
-</div>
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=10b981,064e3b&height=100&section=footer" />
